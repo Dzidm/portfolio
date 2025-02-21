@@ -36,7 +36,7 @@
 
 .hero div {
     height: 25%;
-
+    
     width: max-content;
     display: flex;
     flex-direction: column;
